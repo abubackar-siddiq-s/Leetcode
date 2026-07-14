@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
