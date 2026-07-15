@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
