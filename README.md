@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
