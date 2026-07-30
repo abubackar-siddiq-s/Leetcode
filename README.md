@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0392-is-subsequence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
