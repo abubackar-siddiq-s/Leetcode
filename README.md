@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2540-minimum-common-value](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0392-is-subsequence) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0100-same-tree) |
+## Counting
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
