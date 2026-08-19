@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
