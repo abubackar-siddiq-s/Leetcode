@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2540-minimum-common-value](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2540-minimum-common-value) |
+| [3146-permutation-difference-between-two-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0392-is-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3146-permutation-difference-between-two-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
