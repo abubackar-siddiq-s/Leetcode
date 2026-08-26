@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1486-xor-operation-in-an-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0189-rotate-array) |
+| [1486-xor-operation-in-an-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
