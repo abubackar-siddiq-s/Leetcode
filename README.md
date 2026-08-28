@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2540-minimum-common-value](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2540-minimum-common-value) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3731-find-missing-elements](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/3731-find-missing-elements) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [2373-largest-local-values-in-a-matrix](https://github.com/abubackar-siddiq-s/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
